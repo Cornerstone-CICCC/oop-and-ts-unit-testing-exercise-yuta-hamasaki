@@ -18,4 +18,5 @@ function rainCheck(isRaining, windSpeed = 0, temperature = 20) {
   }
 }
 
+
 module.exports = rainCheck;
